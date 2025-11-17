@@ -42,7 +42,7 @@ Aqui estão alguns projetos nos quais trabalhei (você pode "destacar" (Pin) est
 * **[Projeto Quiz Interativo ](https://github.com/juan-desenvolvedor/01-Quiz)**
     * **Descrição:** Um quiz interativo sobre Desenvolvimento Web feito 100% com front-end.
     * **Tecnologias:** HTML5, CSS3, JavaScript.
-    * **[🕹️ Jogar Agora! (Demo)](https://juan-desenvolvedor.github.io/01-Quiz/)**
+    * **[🕹️ Jogar Agora! (Demo)](https://juan-desenvolvedor.github.io/01-Quiz/Inicio.html)**
 
 * **[Medidor de Poluição (ICEB)]([LINK-PARA-O-PROJETO-SE-ESTIVER-NO-GITHUB])**
     * **Descrição:** Projeto para o Programa de Iniciação Científica na Educação Básica (2023/2024) para desenvolver um medidor de poluição.
