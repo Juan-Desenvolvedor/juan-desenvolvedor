@@ -11,7 +11,7 @@ Estou sempre buscando aprender novas tecnologias e construir projetos que resolv
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio (previsão 2025-2027).
 * 🔧 Formado em **Técnico em Mecatrônica** pelo SENAI (2022-2023), o que me deu uma forte base em lógica, hardware e automação.
 * 🎯 Meu objetivo é atuar como Desenvolvedor Full-Stack, combinando meu conhecimento de front-end, back-end e infraestrutura.
-* 🌱 Curiosidade bônus: Também tenho interesse em impressão 3D (Ender 3) e hidroponia!
+
 
 ---
 
