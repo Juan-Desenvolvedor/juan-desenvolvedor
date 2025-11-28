@@ -1,6 +1,6 @@
-# Olá! 👋 Sou o Juan
+# Juan Pablo Neves Da Silva
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou um estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia, focado em me tornar um desenvolvedor full-stack.
+Bem-vindo(a) ao meu perfil do GitHub! Sou um estudante de **Análise e Desenvolvimento de Sistemas**, focado em me tornar um desenvolvedor full-stack.
 
 Estou sempre buscando aprender novas tecnologias e construir projetos que resolvem problemas do mundo real.
 
