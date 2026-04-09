@@ -10,7 +10,6 @@ Estou sempre buscando aprender novas tecnologias e construir projetos que resolv
 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio (previsão 2025-2027).
 * 🔧 Formado em **Técnico em Mecatrônica** pelo SENAI Luiz Adelar Scheuer (2022-2023), com forte base em lógica, hardware, eletrônica e automação.
-* 🏭 Atualmente aplicando tecnologia no chão de fábrica como Auxiliar de Produção, desenvolvendo soluções de Edge Computing e monitoramento em tempo real.
 * 🎯 Meu objetivo é atuar como Desenvolvedor Full-Stack / Analista de Sistemas Industriais, integrando hardware (IoT), back-end robusto e interfaces amigáveis.
 
 ---
@@ -44,8 +43,8 @@ Estou sempre buscando aprender novas tecnologias e construir projetos que resolv
 
 ### 🚀 Meus Projetos em Destaque
 
-* 🏭 **[JPN Tecnologia - Sistema IIoT de Monitoramento OEE](#)** *(Em Implantação)*
-    * **Descrição:** Sistema autônomo (Edge Computing) desenvolvido para o chão de fábrica. Utiliza sensores infravermelhos para contagem de produção em tempo real, integrados via Wi-Fi local a um servidor interno que gera relatórios de eficiência (OEE) sem depender de internet externa. Inclui modelagem e impressão 3D de gabinetes industriais para telas touch IPS.
+* 🏭 **[JPN Tecnologia - Sistema IIoT de Monitoramento](#)** *(Em Implantação)*
+    * **Descrição:** Sistema autônomo desenvolvido para o chão de fábrica. Utiliza sensores infravermelhos para contagem de produção em tempo real, integrados via Wi-Fi local a um servidor interno que gera relatórios de eficiência sem depender de internet externa. Inclui modelagem e impressão 3D de gabinetes industriais para telas touch IPS.
     * **Tecnologias:** Python, Flask, SQLite, ESP32 (C++), HTML/CSS, Modelagem 3D.
 
 * 🌐 **[Projeto Quiz Interativo](https://github.com/juan-desenvolvedor/01-Quiz)**
