@@ -1,22 +1,18 @@
-# Juan Pablo Neves Da Silva
+# Juan Pablo Neves 
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou um profissional de tecnologia unindo **Mecatrônica** e **Análise e Desenvolvimento de Sistemas** para criar soluções Full-Stack e de Internet das Coisas Industrial (IIoT).
+**Mecatrônica** e **Análise e Desenvolvimento de Sistemas** 
 
-Estou sempre buscando aprender novas tecnologias e construir projetos que resolvem problemas reais de eficiência e produtividade.
+### 👨‍💻 
 
----
-
-### 👨‍💻 Sobre Mim
-
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio (previsão 2025-2027).
-* 🔧 Formado em **Técnico em Mecatrônica** pelo SENAI Luiz Adelar Scheuer (2022-2023), com forte base em lógica, hardware, eletrônica e automação.
-* 🎯 Meu objetivo é atuar como Desenvolvedor Full-Stack / Analista de Sistemas Industriais, integrando hardware (IoT), back-end robusto e interfaces amigáveis.
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio (2025-2027).
+* 🔧 Formado em **Técnico em Mecatrônica** pelo SENAI Luiz Adelar Scheuer (2022-2023)
+  
 
 ---
 
 ### 💻 Tecnologias e Habilidades
 
-**Front-End & UX**
+**Front-End **
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -26,10 +22,7 @@ Estou sempre buscando aprender novas tecnologias e construir projetos que resolv
 **Back-End & Banco de Dados**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img 
 </p>
 
 **IoT, Hardware & Manufatura Aditiva**
@@ -43,9 +36,9 @@ Estou sempre buscando aprender novas tecnologias e construir projetos que resolv
 
 ### 🚀 Meus Projetos em Destaque
 
-* 🏭 **[JPN Tecnologia - Sistema IIoT de Monitoramento](#)** *(Em Implantação)*
+* 🏭 **[Sistema IIoT de Monitoramento](#)** *(Em Implantação)*
     * **Descrição:** Sistema autônomo desenvolvido para o chão de fábrica. Utiliza sensores infravermelhos para contagem de produção em tempo real, integrados via Wi-Fi local a um servidor interno que gera relatórios de eficiência sem depender de internet externa. Inclui modelagem e impressão 3D de gabinetes industriais para telas touch IPS.
-    * **Tecnologias:** Python, Flask, SQLite, ESP32 (C++), HTML/CSS, Modelagem 3D.
+    * **Tecnologias:** Python, ESP32 (C++), HTML/CSS, Modelagem 3D.
 
 * 🌐 **[Projeto Quiz Interativo](https://github.com/juan-desenvolvedor/01-Quiz)**
     * **Descrição:** Uma aplicação web interativa focada em testar conhecimentos sobre Desenvolvimento Web.
