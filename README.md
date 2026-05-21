@@ -1,10 +1,10 @@
-# Juan Pablo Neves 
+⁹# Juan Pablo Neves 
 
-**Mecatrônica** e **Análise e Desenvolvimento de Sistemas** 
+
 
 ### 👨‍💻 
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio (2025-2027).
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2025-2027).
 * 🔧 Formado em **Técnico em Mecatrônica** pelo SENAI Luiz Adelar Scheuer (2022-2023)
   
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Meus Projetos em Destaque
+### 🚀 Projetos
 
 * 🏭 **[Sistema IIoT de Monitoramento](#)** *(Em Implantação)*
     * **Descrição:** Sistema autônomo desenvolvido para o chão de fábrica. Utiliza sensores infravermelhos para contagem de produção em tempo real, integrados via Wi-Fi local a um servidor interno que gera relatórios de eficiência sem depender de internet externa. Inclui modelagem e impressão 3D de gabinetes industriais para telas touch IPS.
